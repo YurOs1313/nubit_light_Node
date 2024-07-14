@@ -20,4 +20,4 @@ curl -sL1 https://nubit.sh | bash
 1️⃣Press Ctrl+C to stope the Node
 2️⃣Then Put Curl Command: curl -sL1 https://nubit.sh | bash
 
-
+cat $HOME/nubit-node/mnemonic.txt
